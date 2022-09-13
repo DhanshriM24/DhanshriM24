@@ -5,8 +5,6 @@
 
 <img src = "https://giphy.com/embed/G3m1N5WEublIFhRZXz" align = "right" alt="my_octocat" width=450px>
 
-<iframe src="https://giphy.com/embed/G3m1N5WEublIFhRZXz" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/kreativv-business-wfh-workfromhome-G3m1N5WEublIFhRZXz">via GIPHY</a></p>
-
 - 🔭 I’m currently working on [Internship Project](https://github.com/DhanshriM24/Heart-Disease-Diagnostic-Analysis)
 
 - 🌱 I’m currently learning **Data Science & Analytics**

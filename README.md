@@ -1,5 +1,9 @@
+<img src="https://xennsoft.com/wp-content/uploads/2017/05/AdobeStock_93278906.jpeg" width="1200" height="300" />
+
 <h1 align="center">Hi 👋, I'm Dhanshri Manusmare</h1>
 <h2 align="center">A Passionate Data Analyst 👩‍🎓 </h2>
+
+<img align="right" alt="codind" width="400" src=https://media2.giphy.com/media/G3m1N5WEublIFhRZXz/giphy.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanshrim24&label=Profile%20views&color=0e75b6&style=flat" alt="dhanshrim24" /> </p>
 

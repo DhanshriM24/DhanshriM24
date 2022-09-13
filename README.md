@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhanshri Manusmare</h1>
-<h2 align="center">A Passionate Data Analyst</h2>
+<h2 align="center">A Passionate Data Analyst 👩‍🎓 </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanshrim24&label=Profile%20views&color=0e75b6&style=flat" alt="dhanshrim24" /> </p>
 

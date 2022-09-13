@@ -30,6 +30,6 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Thanks+for+visiting+😊;Nice+to+meet+you!+🚀;Have+a+great+day✨&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting+😊&center=true&size=30">
   </a>
 </h1>

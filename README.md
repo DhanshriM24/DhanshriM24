@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanshrim24&label=Profile%20views&color=0e75b6&style=flat" alt="dhanshrim24" /> </p>
 
+<img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=450px>
+
 - 🔭 I’m currently working on [Internship Project](https://github.com/DhanshriM24/Heart-Disease-Diagnostic-Analysis)
 
 - 🌱 I’m currently learning **Data Science & Analytics**

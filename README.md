@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **manusmaredhanashri@gmail.com**
 
-- 📄 Here my resume [https://github.com/DhanshriM24/DhanshriM24/blob/main/Dhanshri%20Resume.pdf](https://github.com/DhanshriM24/DhanshriM24/blob/main/Dhanshri%20Resume.pdf)
+- 📄 Here my resume https://drive.google.com/file/d/1hhfqYZ1qO--1gJdK1ArT3RHnDKfzE01e/view?usp=drive_link
 
 - ⚡ Fun fact **I love dancing, learning new things**
 
